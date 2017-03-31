@@ -1,1 +1,2 @@
-This is my first file in git to merge
+This is my temporary file in git to merge
+readme-edit file
